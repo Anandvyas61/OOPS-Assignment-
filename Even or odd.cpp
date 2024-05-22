@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
 int num;
+cout <<"Anand vyas"<<endl;
 cout << "Enter an integer: ";
 cin >> num;
 if (num % 2 == 0) {
